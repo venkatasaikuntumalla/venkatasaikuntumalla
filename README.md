@@ -2,7 +2,7 @@
 
 𝗔 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 𝗳𝗿𝗼𝗺 𝗜𝗻𝗱𝗶𝗮
 
-![Profile Views](https://komarev.com/ghpvc/?username=venkatasaikuntumalla&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=username&style=flat-square)
 
 🌱 I’m currently learning **Data Analytics & Business Intelligence!**
 
