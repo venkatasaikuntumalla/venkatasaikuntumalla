@@ -43,7 +43,7 @@ Welcome to my data analytics journey! 🚀
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/venkata-sai-kuntumalla) - https://www.linkedin.com/in/venkata-sai-kuntumalla/
 
 
-[(![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/profile/venkatasaikuntumalla) - https://leetcode.com/u/venkatasaikuntumalla/
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/profile/venkatasaikuntumalla) - https://leetcode.com/u/venkatasaikuntumalla/
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://venkatasaikuntumalla.github.io/)- https://github.com/venkatasaikuntumalla
