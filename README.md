@@ -10,7 +10,8 @@
 
 ✦ 𝐏𝐨𝐰𝐞𝐫-𝐁𝐈 
 ✦ 𝐒𝐐𝐋 
-✦ 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐄𝐱𝐜𝐞𝐥 
+✦ 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐄𝐱𝐜𝐞𝐥
+✦ 𝐏𝐲𝐭𝐡𝐨𝐧
 ✦ 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐚𝐥 𝐓𝐡𝐢𝐧𝐤𝐢𝐧𝐠 
 ✦ 𝐩𝐫𝐨𝐛𝐥𝐞𝐦-𝐬𝐨𝐥𝐯𝐢𝐧𝐠 
 ✦ 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐬𝐤𝐢𝐥𝐥𝐬 
@@ -42,7 +43,7 @@ Welcome to my data analytics journey! 🚀
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/venkata-sai-kuntumalla) - https://www.linkedin.com/in/venkata-sai-kuntumalla/
 
 
-[![LeetCode](![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/profile/venkatasaikuntumalla) - https://leetcode.com/u/venkatasaikuntumalla/
+[(![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/profile/venkatasaikuntumalla) - https://leetcode.com/u/venkatasaikuntumalla/
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://venkatasaikuntumalla.github.io/)- https://github.com/venkatasaikuntumalla
